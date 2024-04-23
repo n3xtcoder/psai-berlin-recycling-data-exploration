@@ -1,2 +1,5 @@
 .DS_Store
 data
+venv
+.ipynb_checkpoints
+.virtual_documents
